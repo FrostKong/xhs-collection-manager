@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+xhs.db
+covers/
+backups/
+storage_state*.json
+.DS_Store
